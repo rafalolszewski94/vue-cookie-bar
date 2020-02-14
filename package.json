@@ -6,6 +6,7 @@
   "scripts": {
     "serve": "vue serve --open src/components/CookieBar.vue",
     "build": "vue-cli-service build",
+    "test": "echo No tests ^_^",
     "build-lib": "vue-cli-service build --target lib --name VueCookieBar src/main.js"
   },
   "dependencies": {
