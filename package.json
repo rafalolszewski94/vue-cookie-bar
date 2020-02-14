@@ -2,6 +2,14 @@
   "name": "vue-cookie-bar",
   "version": "0.1.0",
   "main": "./dist/VueCookieBar.common.js",
+  "author": {
+    "url": "https://github.com/rafalolszewski94/",
+    "email": "olszak94@gmail.com",
+    "name": "Rafał Olszewski"
+  },
+  "repository": {
+    "url": "https://github.com/rafalolszewski94/vue-cookie-bar"
+  },
   "scripts": {
     "serve": "vue serve --open src/components/CookieBar.vue",
     "build": "vue-cli-service build",
