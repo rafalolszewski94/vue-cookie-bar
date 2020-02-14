@@ -1,7 +1,6 @@
 {
   "name": "vue-cookie-bar",
   "version": "0.1.0",
-  "private": true,
   "main": "./dist/VueCookieBar.common.js",
   "scripts": {
     "serve": "vue serve --open src/components/CookieBar.vue",
